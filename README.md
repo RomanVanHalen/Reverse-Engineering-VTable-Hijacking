@@ -33,7 +33,7 @@ I implemented a function prologue hijack using:
 - Documented the inherent risks of **Client-Side Authority** in networked/local binaries.
 
 ## 📺 Demonstration
-The reports provides a thorough wakthorugh of the entire processs. 
+The report provides a thorough wakthorugh of the entire processs. 
 
 ---
 **Disclaimer:** This project is for educational purposes only, focusing on software architecture and binary security analysis.
